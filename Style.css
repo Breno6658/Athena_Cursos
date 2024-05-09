@@ -1,0 +1,37 @@
+.lexend-zetta{
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+nav{
+    background-color: #f5f6ff;
+    height: 10%;
+    
+}
+
+header{
+    background-color: #001a4d;
+    height: 10%;
+}
+
+footer{
+    background-color: #343232;
+    height: 12%;
+}
+
+.titulo_p {
+    color: white;
+    font-family: lexend zetta;
+    font-size: 20pt;
+}
+
+.titulo_r{
+    color: white;
+    font-family: "Lexend Zetta", sans-serif;
+}
+
+.redes{
+    color: white;
+}
