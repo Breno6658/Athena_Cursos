@@ -5,16 +5,53 @@ body{
     padding: 0;
 }
 
+.goblin-one-regular {
+    font-family: "Goblin One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
 header{
     display: flex;
 }
-  
 
+.title_p {
+    text-align: center;
+  }
 
 .material-symbols-outlined{
     padding: 1% 0 1% 2%;
     color: #ffffff;
+    font-size: 50px;
+    margin-right: 5%;
 }
+
+.pesquisa{
+    background-color: transparent;
+    border: none;
+    margin-right: 5%;
+}
+
+.button_singnup{
+    padding: 2% 1% 2% 0;
+    background-color: #c1c1c1;
+    border-radius: 5px;
+    font-family: "Goblin One", serif;
+    font-size: 12px;
+    height: 50px;
+    width: 180px; 
+}
+
+.button_login{
+    padding: 2% 0 2% 1%;
+    background-color: white;
+    border-radius: 5px;
+    font-family: "Goblin One", serif;
+    font-size: 12px; 
+    height: 50px;
+    width: 180px; 
+}
+
 
 .lexend-zetta{
   font-family: "Lexend Zetta", sans-serif;
@@ -55,7 +92,6 @@ footer{
     color: white;
     font-family: "Lexend Zetta", sans-serif;
     font-size: 20pt;
-    padding: 1% 20% 1% 40%;
 }
 
 .titulo_r {
@@ -63,4 +99,3 @@ footer{
     font-family: "Lexend Zetta", sans-serif;
     padding: 1% 20% 1% 40%;
 }
-
