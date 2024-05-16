@@ -1,3 +1,21 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+}
+  
+
+
+.material-symbols-outlined{
+    padding: 1% 0 1% 2%;
+    color: #ffffff;
+}
+
 .lexend-zetta{
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
@@ -8,7 +26,17 @@
 nav{
     background-color: #f5f6ff;
     height: 10%;
+    border-color: black;
     
+}
+
+.nav_bar{
+    display: flex;
+
+}
+
+.menu_nav{
+    margin: 1% 7.7% 1% 7.7%;
 }
 
 header{
@@ -18,20 +46,21 @@ header{
 
 footer{
     background-color: #343232;
+    color: #ffffff;
     height: 12%;
+    display: flex;
 }
 
 .titulo_p {
     color: white;
-    font-family: lexend zetta;
+    font-family: "Lexend Zetta", sans-serif;
     font-size: 20pt;
+    padding: 1% 20% 1% 40%;
 }
 
-.titulo_r{
+.titulo_r {
     color: white;
     font-family: "Lexend Zetta", sans-serif;
+    padding: 1% 20% 1% 40%;
 }
 
-.redes{
-    color: white;
-}
