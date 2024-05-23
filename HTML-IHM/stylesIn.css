@@ -1,0 +1,328 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #001a4d;
+}
+
+.goblin-one-regular {
+    font-family: "Goblin One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.alfa-slab-one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .banner{
+   background-color: #001a4d;
+    height: 450px;
+    display: flex;
+  }
+
+.cerebro{
+    margin-top: 100px;
+    margin-left: 150px;
+  }
+header{
+    display: flex ;
+    height: 120px;
+}
+
+.parte2{
+    height: 1000px;
+}
+
+.caixa1{
+    position: absolute;
+    background-image: linear-gradient(to right, #e3fbff , #7e97c5);
+    width: 100%;
+    height: 300px;
+    margin-top: 10px;
+    
+
+}
+.caixa2{
+    position: absolute;
+    background-image: linear-gradient(to right, #e3fbff , #7e97c5);
+    width: 100%;
+    height: 300px;
+    margin-top: 340px;
+
+}
+.caixa3{
+    position:absolute;
+    background-image: linear-gradient(to right, #e3fbff , #7e97c5);
+    width: 100%;
+    height: 300px;
+    margin-top: 670px;
+
+}
+
+.stonks{
+    position: absolute;
+    margin-left: 69.5%;
+    width: 455px;
+    height: 280px;
+    margin-top: 7px;
+}
+
+.anuncioA{
+    font-size: 30pt;
+    width: 65%;
+    font-family: "Arial";
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.anuncioB{
+    width: 65%;
+    margin-left: 30px;
+    font-size: 20pt;
+}
+
+.stonks2{
+    position: absolute;
+    margin-left: 69.5%;
+    width: 455px;
+    height: 280px;
+    margin-top: 7px;
+}
+
+.stonks3{
+    position: absolute;
+    margin-left: 69.5%;
+    width: 455px;
+    height: 280px;
+    margin-top: 7px;
+}
+
+
+.artigos{
+    background-color: rgba(245,246,255,0.6);
+    width: 100%;
+    height: 150px;
+}
+.artigosT{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 44%;
+    height: 20%;
+    font-size: 40pt;
+    color: #3D3B3B;
+    font-family: "Alfa Slab One", serif;
+}
+.separacao{
+    background-color: #001a4d;
+    height: 100px;
+}
+.material-symbols-outlined{
+    padding: 1% 0 1% 2%;
+    color: #ffffff;
+    font-size: 50px;
+    margin-right: 5%;
+}
+
+#pesquisa{
+    background-color: transparent;
+    border: none;
+    margin-right: 5%;
+    size: 20px;
+}
+
+.button_singnup{
+    padding-left: 5px;
+    background-color: #c1c1c1;
+    border-radius: 5px;
+    font-family: "Goblin One", serif;
+    font-size: 12px;
+    height: 50px;
+    width: 180px; 
+}
+
+.button_login{
+    padding-left: 20px;
+    background-color: white;
+    border-radius: 5px;
+    font-family: "Goblin One", serif;
+    font-size: 12px; 
+    height: 50px;
+    width: 180px; 
+}
+
+.account{
+    padding-left: 17%;
+    display: flex;
+    margin-top: 10px;
+}
+
+.lexend-zetta{
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+nav{
+    background-color: #f5f6ff;
+    height: 80px;
+    border-color: black;
+    align-content: center;
+    
+}
+
+.nav_bar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu_nav{
+    text-decoration: none;
+    font-family: "Alfa Slab One", serif;
+    color: #3D3B3B;
+    font-size: 14px;
+}
+
+header{
+    background-color: #001a4d;
+    height: 10%;
+}
+
+footer{
+    background-color: #343232;
+    color: #ffffff;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_p {
+    color: white;
+    font-family: "Lexend Zetta", sans-serif;
+    font-size: 20pt;
+    text-decoration: none;
+    padding-left: 35%;
+    margin-top: 9px;
+}
+
+.tituloB{
+    position: absolute;
+    font-family: "Lexend Zetta", sans-serif;
+    font-size: 40pt;
+    text-decoration: none;
+    color: white;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.titulo_r {
+    color: white;
+    font-family: "Lexend Zetta", sans-serif;
+    font-size: 20px;
+    margin-top: 27%;
+    margin-left: 5px;
+}
+
+.textoB{
+    color: #ffffff;
+    font-size: 15pt;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 850px;
+    position: absolute;
+    font-family: "Lexend Zetta", sans-serif;
+}
+
+.icon{
+        position: absolute;
+        margin-top: 105px;
+        margin-left: 200px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.redes{
+    width: 500px;
+    justify-content:center;
+    margin-right: 25px;
+    margin-left: 55%;
+    position: relative;
+    margin-top: 50px;
+ }
+ 
+html{
+    overflow-x: hidden;
+}
+@keyframes carrossel {
+    0% {
+        background-color: #616a89;
+        left: 0px;
+        top: 0px;
+    }
+
+   
+    50% {
+        background-color: #616a89;
+        left: -500px;
+        top: 0px;
+    }
+
+  
+    100% {
+        background-color: #616a89;
+        left: 0px;
+        top: 0px;
+    }
+}
+
+
+
+.rolagem {
+    width: 2300px;
+    height: 450px;
+    position: relative;
+   
+    animation-name: carrossel;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: reverse;
+   
+}
+
+.rolagem:hover {
+    animation-play-state: paused;
+
+}
+.artigoR{
+    margin-top: 30px;
+    background-color: #616a89;
+}
+.artigoP{
+            
+    width: 400px;
+    height: 100%;
+    display: inline-block;
+    background-color: #c1c1c1;
+    margin-left: 10px;
+}
+.artigoP p{
+    text-decoration: none;
+    position: relative;
+    margin-left: 60px;
+}
+.artigoI{
+    width: 400px;
+    height: 250px;
+}
+
+.artigoTex{
+    font-family: "Arial";
+    font-size: 16pt;
+}
