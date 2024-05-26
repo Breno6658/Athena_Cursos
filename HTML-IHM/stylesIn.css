@@ -62,7 +62,7 @@ header{
 
 }
 
-.stonks{
+.imagem1{
     position: absolute;
     margin-left: 69.5%;
     width: 455px;
@@ -84,7 +84,7 @@ header{
     font-size: 20pt;
 }
 
-.stonks2{
+.imagem2{
     position: absolute;
     margin-left: 69.5%;
     width: 455px;
@@ -92,7 +92,7 @@ header{
     margin-top: 7px;
 }
 
-.stonks3{
+.imagem3{
     position: absolute;
     margin-left: 69.5%;
     width: 455px;
@@ -106,7 +106,7 @@ header{
     width: 100%;
     height: 150px;
 }
-.artigosT{
+.artigosTitulo{
     position: absolute;
     margin-top: 30px;
     margin-left: 44%;
@@ -300,11 +300,11 @@ html{
     animation-play-state: paused;
 
 }
-.artigoR{
+.artigoRolagem{
     margin-top: 30px;
     background-color: #616a89;
 }
-.artigoP{
+.artigoApresentacao{
             
     width: 400px;
     height: 100%;
@@ -312,12 +312,12 @@ html{
     background-color: #c1c1c1;
     margin-left: 10px;
 }
-.artigoP p{
+.artigoApresentacao p{
     text-decoration: none;
     position: relative;
     margin-left: 60px;
 }
-.artigoI{
+.artigoImagem{
     width: 400px;
     height: 250px;
 }
